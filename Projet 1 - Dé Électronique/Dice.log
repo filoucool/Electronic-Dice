@@ -1,0 +1,6 @@
+# Writing all output to: G:\Mon disque\Classroom\2020-Hiver\247-2A6-GG FABRIQUER ET INSPECTER UN PROTOTYPE\Projet 1 - D?? ??lectronique\Dice.log
+set pad_wire_necking on
+bus diagonal
+fanout 10
+route 25
+Process stopped!
